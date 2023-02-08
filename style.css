@@ -1,0 +1,17 @@
+h1{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-size: 6rem;
+	margin 8rem;
+}
+.fill {
+	
+	background: -webkit-linear-gradient(left, #ff1053 0%, #ff4f0f 100%);
+	background: linear-gradient(to right, #ff1053 0%, #ff4f0f 100%);
+	
+	background-size: contain;
+	
+	background-image: url('https://i.gifer.com/origin/8c/8cb60bc2f43a6f283e8437a30b19b50b.gif');
+	
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;	
+}
